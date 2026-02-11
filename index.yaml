@@ -7,7 +7,7 @@ entries:
     description: Helm chart for InvenTree - The Open Source Inventory and PLM Solution
     digest: 5162f8bff829fba943a3196f0132bfb96e9d5eb128478c7e880069a35944cb14
     home: https://inventree.org/
-    icon: https://github.com/inventree/InvenTree/blob/master/assets/images/logo/inventree.svg
+    icon: https://raw.githubusercontent.com/inventree/InvenTree/refs/heads/master/assets/images/logo/inventree.svg
     keywords:
     - manufacturing
     - PLM
